@@ -48,7 +48,7 @@ const Menu1 = () => {
      
       <div className="container mt-[30px]">
       <div className="image2" ref={imageRef}>
-          <img src='./images/chailatte3.jpg' className='rounded-[30px] h-[570px] w-[600px]' alt="Latte" />
+          <img src='/images/chailatte3.jpg' className='rounded-[30px] h-[570px] w-[600px]' alt="Latte" />
         </div>
         <div className="content1" ref={contentRef}>
           <h2 className="category">Speciality Lattes</h2>

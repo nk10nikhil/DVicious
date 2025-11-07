@@ -72,7 +72,7 @@ const Menu1 = () => {
           
         </div>
         <div className="image2" ref={imageRef}>
-          <img src='./images/hot2.jpg' className='rounded-[30px] h-[590px] w-[570px]' alt="Latte" />
+          <img src='/images/hot2.jpg' className='rounded-[30px] h-[590px] w-[570px]' alt="Latte" />
         </div>
       </div>
     </div>

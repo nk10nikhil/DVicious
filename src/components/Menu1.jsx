@@ -101,7 +101,7 @@ useEffect(() => {
           </div>
         </div>
         <div className="image" ref={imageRef}>
-          <img src='./images/latte.jpg' className='rounded-[30px]' alt="Latte" />
+          <img src='/images/latte.jpg' className='rounded-[30px]' alt="Latte" />
         </div>
       </div>
     </div>
