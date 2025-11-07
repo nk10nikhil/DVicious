@@ -43,8 +43,8 @@ const Welovecoffee = () => {
                     <h3>Location:</h3>
                     <div className='flex flex-col gap-[8px]'>
                         <p>DVicious Brew</p>
-                        <p>123 Coffee Lane</p>
-                        <p>Latte City , LC 12345</p>
+                        <p>GCET</p>
+                        <p>Noida, India</p>
                     </div>
                     <button  ref={buttonRef}className='w-[180px] h-[50px] bg-black text-white rounded-[30px] text-[18px] cursor-pointer pr-[10px]'>
                         Explore Menu
